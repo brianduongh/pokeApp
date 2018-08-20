@@ -1,9 +1,9 @@
 import React from 'react';
 
-import HomeNavigator from '../navigations';
+import { RootNavigator } from '../navigations';
 
 const App = () => (
-  <HomeNavigator />
+  <RootNavigator />
 );
 
 export default App;

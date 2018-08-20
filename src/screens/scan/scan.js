@@ -13,12 +13,13 @@ const styles = StyleSheet.create({
   },
   image: {
     alignSelf: 'center',
-    marginTop: 20,
+    marginTop: 80,
     width: 200,
     height: 200,
   },
   h1: {
     alignSelf: 'center',
+    marginTop: 50,
   },
   text: {
     alignSelf: 'center',
